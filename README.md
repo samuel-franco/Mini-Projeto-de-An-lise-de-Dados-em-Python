@@ -59,5 +59,10 @@ Uma outra forma de exibir os arquivos da pasta vendas é
 ![image](https://user-images.githubusercontent.com/84928607/232653656-d7591c0c-28ac-493e-9106-924ccf398a95.png)
 
 
+![image](https://user-images.githubusercontent.com/84928607/232654049-c8c03d44-a9c9-4345-9496-6638e081322c.png)
 
 
+![image](https://user-images.githubusercontent.com/84928607/232654161-a3d4d02e-f67a-4b83-8fb5-8b375c4c9098.png)
+
+
+![image](https://user-images.githubusercontent.com/84928607/232654302-539ee000-91c7-4fb8-947f-a0b086f1199f.png)
