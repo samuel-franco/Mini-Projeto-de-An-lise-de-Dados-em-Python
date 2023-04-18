@@ -1,7 +1,7 @@
 # Mini-Projeto-de-An-lise-de-Dados-em-Python
 Mini Projeto de Análise de Dados na linguagem Python
 
-Mini Projeto de Análise de Dados na Linguagem Python Este mini projeto consiste básicamente fazer tratamentos de dados e treinar habildidades em Python, especificamente na area do desenvolvimento de análise de dados. A ideia do projeto é bem simples, o objetivo é pegar os dados de vendas de uma empresa do ramo de produtos eletrônicos e fazer o tratamento desses dados por meio de passo a passo. Com isso é possivel mostrar com o Python as informações das vendas nas lojas como por exemplo, a quantidade de produtos vendidos, o faturamento qual a loja que mais vendeu. Por último fiz bem simples um gráfico/dashboard para mostrar a performace das lojas.
+Mini Projeto de Análise de Dados na Linguagem Python Este mini projeto consiste básicamente fazer tratamentos de dados e treinar habildidades em Python, especificamente na area do desenvolvimento de análise de dados. A ideia do projeto é bem simples, o objetivo é pegar os dados de vendas de uma empresa do ramo de produtos eletrônicos e fazer o tratamento desses dados por meio de passo a passo. Com isso é possivel mostrar com o Python as informações das vendas nas lojas como por exemplo, a quantidade de produtos vendidos, o faturamento, qual a loja que vendeu mais. Por último fiz um gráfico/dashboard bem simples  para mostrar a performace das lojas no quesito faturamento.
 
 Passo a passo da solução do Desafio
 
