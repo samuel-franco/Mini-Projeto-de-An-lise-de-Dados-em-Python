@@ -29,9 +29,7 @@ Passo 5 - Calcular o produtor que mais faturou (em faturamento)
 
 Passo 6 - Calcular a loja/cidade que mais vendeu (faturamento) - criar gráfico/dashboard
 
-Uma outra forma de exibir os arquivos da pasta vendas é
-
-É usar em vez da função print() usar a função display(). A função display faz a mesma coisa que função print. A diferença é que o display deixa o código mais clean
+Uma outra forma de exibir os arquivos da pasta vendas é usar em vez da função print() usar a função display(). A função display faz a mesma coisa que função print, a diferença é que o display mostra os arquivos da pasta Vendas de uma forma mais clean.
 
 
 
